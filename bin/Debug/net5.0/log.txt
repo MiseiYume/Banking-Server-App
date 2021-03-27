@@ -1,0 +1,33 @@
+Received: {0}TypicalUser 1234
+Logged in with credentials: {0}TypicalUserName password
+(Denied credentials: {0}, TypicalUserName password)
+Server started.
+
+Logged in with credentials: {0}
+TypicalUser 1234
+
+Server started.
+
+Logged in with credentials: {0}
+TypicalUser 1234
+
+Server started.
+
+Logged in with credentials: {0}
+TypicalUser 1234
+
+Sent approval message to client.
+
+
+Logged in with credentials: {0}
+TypicalUser 1234
+
+Sent approval message to client.
+
+
+Logged in with credentials: {0}
+TypicalUser 1234
+
+Sent approval message to client.
+
+

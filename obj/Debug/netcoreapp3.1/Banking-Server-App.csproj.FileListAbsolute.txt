@@ -1,0 +1,13 @@
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.exe
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.deps.json
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.runtimeconfig.json
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.runtimeconfig.dev.json
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.dll
+M:\Projekty\Csharp\Banking-Server-App\bin\Debug\netcoreapp3.1\Banking-Server-App.pdb
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.csprojAssemblyReference.cache
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.AssemblyInfoInputs.cache
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.AssemblyInfo.cs
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.csproj.CoreCompileInputs.cache
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.dll
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.pdb
+M:\Projekty\Csharp\Banking-Server-App\obj\Debug\netcoreapp3.1\Banking-Server-App.genruntimeconfig.cache
